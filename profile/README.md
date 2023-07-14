@@ -1,6 +1,6 @@
 # Welcome to MyVet! :dog: :cat:
 
-![MyVet logo]([URL_of_your_logo](https://avatars.githubusercontent.com/u/138579615?s=200&v=4))
+![MyVet logo](https://avatars.githubusercontent.com/u/138579615?s=200&v=4)
 
 We're a startup based in Italy, passionately working to revolutionize the world of veterinary care.
 
