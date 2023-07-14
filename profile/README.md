@@ -1,6 +1,6 @@
 # Welcome to MyVet! :dog: :cat:
 
-![MyVet logo](URL_of_your_logo)
+![MyVet logo]([URL_of_your_logo](https://avatars.githubusercontent.com/u/138579615?s=200&v=4))
 
 We're a startup based in Italy, passionately working to revolutionize the world of veterinary care.
 
@@ -23,18 +23,17 @@ Our mission is to streamline pet healthcare, making it straightforward, hassle-f
 
 ## Join Our Network :handshake:
 
-We're actively welcoming veterinarians and other veterinary professionals to join our platform. Be a part of the digital transformation of pet healthcare in Italy. If interested, please reach out to us at `joinus@myvet.it`.
+We're actively welcoming veterinarians and other veterinary professionals to join our platform. Be a part of the digital transformation of pet healthcare in Italy. Visit our website [myvet.it](http://myvet.it) for more information.
 
 ## Get in Touch :email:
 
-For users with feedback, questions or issues, we're here to help! Reach out to us at `support@myvet.it`.
+For users with feedback, questions or issues, we're here to help! Reach out to us at `info@myvet.it`.
 
 Join us in our journey to revolutionize veterinary care in Italy!
 
 # Follow Us
 
-- **Twitter:** [@myvet](URL_of_your_Twitter)
-- **Instagram:** [@myvet](URL_of_your_Instagram)
-- **LinkedIn:** [MyVet](URL_of_your_LinkedIn)
+- **Instagram:** [@myvet_italy](https://www.instagram.com/myvet_italy/)
+- **LinkedIn:** [MyVet](https://it.linkedin.com/company/myvet-italy)
 
 # Made with :heart: by MyVet
